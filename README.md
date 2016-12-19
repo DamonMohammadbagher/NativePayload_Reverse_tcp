@@ -1,6 +1,8 @@
 # NativePayload_Reverse_tcp
 Meterpreter Encrypted Payload by C#.Net
 
+Note : I made this Backdoor source code for describe Antiviruses vulnerability only. 
+
  You can use Meterpreter Encrypted Payloads with this C# Source code
  
  Publisher and Author: Damon mohammadbagher
