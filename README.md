@@ -18,4 +18,6 @@ Note : I made this Backdoor source code for describe Antiviruses vulnerability o
  for more information visit this link 
  
  step by step and for more information Please visit this link : https://www.linkedin.com/pulse/bypass-all-anti-viruses-encrypted-payloads-c-damon-mohammadbagher
- 
+
+Antivirus and Signature Based Detection Methods Doesn't Work for Defense
+https://www.linkedin.com/pulse/antivirus-signature-based-detection-methods-doesnt-mohammadbagher?trk=pulse_spock-articles
