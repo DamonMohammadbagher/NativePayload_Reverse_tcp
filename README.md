@@ -15,9 +15,14 @@ Note : I made this Backdoor source code for describe Antiviruses vulnerability o
  
  or you can use command prompt argument for importing Encrypted Payload to this code (Safe)
  
- for more information visit this link 
+ for more information visit these link 
  
  step by step and for more information Please visit this link : https://www.linkedin.com/pulse/bypass-all-anti-viruses-encrypted-payloads-c-damon-mohammadbagher
 
 Antivirus and Signature Based Detection Methods Doesn't Work for Defense
 https://www.linkedin.com/pulse/antivirus-signature-based-detection-methods-doesnt-mohammadbagher?trk=pulse_spock-articles
+
+Related Link:
+Bypassing Anti-viruses with transfer Backdoor Payloads by DNS traffic
+https://www.linkedin.com/pulse/bypassing-anti-viruses-transfer-backdoor-payloads-dns-mohammadbagher
+https://github.com/DamonMohammadbagher/NativePayload_DNS
