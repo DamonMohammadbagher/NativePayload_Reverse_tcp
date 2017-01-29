@@ -1,3 +1,6 @@
+[![Stage](https://img.shields.io/badge/Release-STABLE-brightgreen.svg)]()
+
+
 # NativePayload_Reverse_tcp
 Meterpreter Encrypted Payload by C#.Net
 
