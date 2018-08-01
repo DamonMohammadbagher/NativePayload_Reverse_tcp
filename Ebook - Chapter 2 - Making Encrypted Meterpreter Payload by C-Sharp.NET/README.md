@@ -9,6 +9,8 @@ Note: "PDF File" For This Chapter Will Publish by "Peerlyst Ebook" Soon , For Mo
 
 eBook chapter 2 , PDF Download : https://github.com/DamonMohammadbagher/eBook-BypassingAVsByCSharp/tree/master/CH2
 
+Related Videos : https://youtu.be/j6pwSemHfTY
+
 
 
 
