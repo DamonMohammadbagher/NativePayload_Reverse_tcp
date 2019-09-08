@@ -31,3 +31,10 @@ Bypassing Anti-viruses with transfer Backdoor Payloads by DNS traffic
 
 https://www.linkedin.com/pulse/bypassing-anti-viruses-transfer-backdoor-payloads-dns-mohammadbagher
 https://github.com/DamonMohammadbagher/NativePayload_DNS
+
+Ver 2 : 
+  ![](https://github.com/DamonMohammadbagher/NativePayload_Reverse_tcp/blob/master/NativePayload_Reverse_tcp2.png)
+
+Article link (ver 2) : Antivirus and Signature Based Detection Methods Doesn't Work for Defense
+https://www.linkedin.com/pulse/antivirus-signature-based-detection-methods-doesnt-mohammadbagher?trk=pulse_spock-articles
+ 
