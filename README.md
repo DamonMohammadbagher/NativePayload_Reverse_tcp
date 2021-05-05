@@ -40,4 +40,6 @@ Ver 2 : test with AV (comodo bypassed)
   
 Old Article (v2): Antivirus and Signature Based Detection Methods Doesn't Work for Defense
 https://www.linkedin.com/pulse/antivirus-signature-based-detection-methods-doesnt-mohammadbagher?trk=pulse_spock-articles
+
+<p><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDamonMohammadbgher%2F/NativePayload_Reverse_tcp"/></a></p>
  
